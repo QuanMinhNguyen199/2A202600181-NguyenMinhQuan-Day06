@@ -31,8 +31,7 @@ Sẽ test prompt sớm hơn — ngày đầu chỉ viết SPEC, đến trưa D6 
 Làm system prompt tốt hơn để AI không bị lệch đề và trả lời lung tung.
 
 ## 7. AI giúp gì / AI sai gì
-- **Giúp:** dùng Claude để brainstorm failure modes — nó gợi ý được "drug interaction"
-  mà nhóm không nghĩ ra. Dùng Gemini để test prompt nhanh qua AI Studio.
-- **Sai/mislead:** Claude gợi ý thêm feature "đặt lịch khám" vào chatbot —
+- **Giúp:** dùng GIT copilot để brainstorm failure modes và Gemini hỗ trợ tạo system prompts.
+- **Sai/mislead:** GIT copilot gợi ý thêm feature "đặt lịch khám" vào chatbot —
   nghe hay nhưng scope quá lớn cho hackathon.Cần hoàn thiện luồng đặt lịch vì đang bị lỗi.
-  Bài học: AI brainstorm và scope tốt nhưng chưa chuẩn và đôi khi bị hallucinate.
+  Bài học: AI brainstorm và scope tốt nhưng chưa chuẩn và đôi khi trả lời sai ý nghĩa.
