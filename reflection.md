@@ -33,5 +33,5 @@ Làm system prompt tốt hơn để AI không bị lệch đề và trả lời 
 - **Giúp:** dùng Claude để brainstorm failure modes — nó gợi ý được "drug interaction"
   mà nhóm không nghĩ ra. Dùng Gemini để test prompt nhanh qua AI Studio.
 - **Sai/mislead:** Claude gợi ý thêm feature "đặt lịch khám" vào chatbot —
-  nghe hay nhưng scope quá lớn cho hackathon. Suýt bị scope creep nếu không dừng lại.
+  nghe hay nhưng scope quá lớn cho hackathon.Cần hoàn thiện luồng đặt lịch vì đang bị lỗi.
   Bài học: AI brainstorm và scope tốt nhưng chưa chuẩn và đôi khi bị hallucinate.
