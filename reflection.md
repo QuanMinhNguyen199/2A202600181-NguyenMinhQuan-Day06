@@ -8,6 +8,7 @@ Visualizing: thiết kế powerpoint và SPEC.
 - Thiết kế conversation flow 5 bước (hỏi vị trí đau → thời gian → mức độ → tiền sử → gợi ý)
 - Thiết kế Mini AI SPEC
 - Vẽ poster layout cho demo, canvas và slide
+- Viết problem statement để triển khai bot AI
 
 ## 3. SPEC mạnh/yếu
 - Mạnh nhất (Failure Modes): Xây dựng kịch bản xử lý chặt chẽ cho trường hợp "triệu chứng mơ hồ". Thay vì đoán mò chuyên khoa (gây rủi ro), AI sẽ kích hoạt luồng câu hỏi làm rõ (follow-up) hoặc chuyển hướng nhân viên hỗ trợ nếu cần thiết.
