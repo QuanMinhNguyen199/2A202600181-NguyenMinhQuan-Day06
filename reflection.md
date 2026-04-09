@@ -1,7 +1,7 @@
 # Individual reflection — Nguyễn Minh Quân (AI20K001)
 
 ## 1. Role
-Prompt engineer. Phụ trách thiết kế flow chatbot và viết system prompt.
+Prompt engineer. Hỗ trợ thiết kế flow chatbot và system prompt.
 Visualizing: thiết kế powerpoint và SPEC.
 
 ## 2. Đóng góp cụ thể
